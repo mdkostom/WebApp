@@ -1,11 +1,12 @@
 Web Applications - Mark K
+#Movie ticket booking service#
 
-1) As a user, I want to be able to see a login screen when I first access the application so that I can enter my credentials and access the system.
+1) As a customer, I want to be able to search for movies playing in my area so that I can see what is available.
 
-2) As a user, I want to be able to enter my username and password on the login screen so that I can authenticate myself and access my account.
+2) As a customer, I want to be able to cancel my booking so that I can receive a refund if necessary.
 
-3) As a user, I want to be able to see a message on the login screen if I enter incorrect credentials so that I can correct them and try again.
+3) As a customer, I want to be able to view my booking history so that I can keep track of my past purchases.
 
-4) As a user, I want to be able to reset my password using a link on the login screen if I forget my password so that I can regain access to my account.
+4) As an admin, I want to be able to add new movies to the system so that they can be available for customers to book.
 
-5) As a user, I want to be able to see a checkbox on the login screen that allows me to remember my username and password so that I don't have to enter them every time I access the system.
+5) As an admin, I want to be able to view revenue generated from ticket sales for each movie so that I can find out which movies are popular.
